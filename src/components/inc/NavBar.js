@@ -14,8 +14,8 @@ export default function Navbar() {
       <div className="navbar-nav ">
         <Link className="nav-link active" aria-current="page" to="/">Home</Link>
         <Link className="nav-link" to="/about">About</Link>
-        <Link className="nav-link" to="/contact">Contact</Link>
-        
+        <Link className="nav-link" to="/Contact">Contact</Link>
+        <Link className="nav-link" to="/dashboard">DashBoard</Link>
       </div>
       <div className='ms-auto'>
         <form className="d-flex " role="search">
