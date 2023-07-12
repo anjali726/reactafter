@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.underline{
+  height:4px;
+  width: 40px;
+  background-color: red;
+  border-radius: 4px;
+  
+}
+.sub-underline{
+  height:4px;
+  width: 40px;
+  background-color: rgb(93, 0, 199);
+  border-radius: 4px;
+  
+}
+.bg{
+  background-color: #f8f9fa;
+}
+.custom-card {
+  max-width: 450px;
+  margin-left: auto;
+  height: 450;
+}
+
+
+
+.s1{
+  min-width: 225px;
+}
+.s2{
+  margin-top: 58px;
+}
